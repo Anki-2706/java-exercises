@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AreaRect {
+public class AreaRectangle {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         double height=0,width=0,area;
@@ -13,3 +13,4 @@ public class AreaRect {
 
     }
 }
+
